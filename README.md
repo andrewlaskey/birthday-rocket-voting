@@ -1,22 +1,14 @@
 # birthday-rocket-voting
 
-> Vote for your favorite rocket
+A small little voting app made over a couple days for a water bottle rocket launching competition.
 
-## Build Setup
+Users can submit their rocket to be voted on, vote for rockets in three different categories, and update their vote after submitting.
 
-``` bash
-# install dependencies
-$ npm run install
+What's in the box?
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+* Nuxt
+* Nuxt Vuex Localstorage
+* Firebase Cloudstore
+* Firebase Storage
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+Deployed to Netlify https://priceless-stonebraker-d05260.netlify.com
